@@ -81,7 +81,7 @@ mean_std <- select(mean_std,subId,activityId,activityType,"tBodyAcc-mean()-X":"f
 
 11. Fix the variable names of the data "mean_std" by:
 - removing all the parantheses in the column names,
-- replacing "Acc" to "Accellaration"
+- replacing "Acc" to "Accelleration"
 - replacing "Gyro" to "Gyroscope"
 - replacing "Freq" to "Frequency"
 - replacing "BodyBody" to "Body"
